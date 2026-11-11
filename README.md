@@ -1,5 +1,7 @@
 # Uncertainty-Aware IoT Intrusion Detection
 
+Joint research by **[Siavash Partonia](https://github.com/partomahsiavash)** and **[Fardin Rahmanpour](https://github.com/fardinrahmnpour)**.
+
 Research artifacts for evaluating how reliably a NetFlow intrusion detector performs across datasets, on unseen attack families, and under changes in network traffic.
 
 **[Results workbook](Security_AI_Complete_Results.xlsx)** · **[Run the experiments](REPRODUCE.md)** · **[Get the datasets](DATASETS.md)** · **[Browse the Python source](security_iot_uncertainty_pipeline.py)** · **[Download the full artifact bundle](iot-ids-research-artifacts.zip)**
